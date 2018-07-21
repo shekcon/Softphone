@@ -1214,5 +1214,10 @@ namespace Softphone
 
         #endregion
 
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> e74f86a5b436776b7edf81c21cade8a538250bb3
     }
 }
